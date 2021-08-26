@@ -12,7 +12,7 @@ CIS-486 Dev Lab ALPHA Story Card
 - Check to see if NodeJs is installed.  From terminal type node -v, if you see
 or similar 👍.  No version # install from here: [Install NodeJS for Windows](https://nodejs.org/en/) 
 
-![image](https://user-images.githubusercontent.com/54637063/131031229-8930a22e-e303-4225-ab0c-3352cef3fe32.png)
+                ![image](https://user-images.githubusercontent.com/54637063/131031229-8930a22e-e303-4225-ab0c-3352cef3fe32.png)
 - psuedocode
 - resources 
 - use vsCode
