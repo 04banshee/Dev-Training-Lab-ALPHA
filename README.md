@@ -1,17 +1,15 @@
 Dev Lab ALPHA/486 Story Card 
 
-## User Story (Story Points = med👕) 
+🚀 ## User Story (Story Points) 🚀 
 
 **As a** qualifying developer (note: one time usage only)  
 
 **I want** deploy a demo node.js app
 
-**So That** grade => graduate => job :moneybag: => smite your enemies => retirement (btw: learn sumpthin`) 
+**So That** an end user is able to use a user friendly dynamic web application. 👶
 
-(these stories are for everyone: not in dev-speak) 
-
-## Comments/Discussion
-- background / narrative
+## Comments/Below are the steps 🥇
+- Install NodeJs 
 - psuedocode
 - resources 
 - use vsCode
