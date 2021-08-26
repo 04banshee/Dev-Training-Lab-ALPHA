@@ -1,6 +1,6 @@
 CIS-486 Dev Lab ALPHA Story Card 
 
- # User Story (Story Points) 🚀 
+ # User Story (Story Points) 💻
 
 **As a** qualifying developer (note: one time usage only)  
 
@@ -9,16 +9,18 @@ CIS-486 Dev Lab ALPHA Story Card
 **So That** an end user is able to use a user friendly dynamic web application. 👶
 
 ## Comments/Steps to implement 🥇
-- Check to see if NodeJs and NPM are installed.  From terminal type node -v (nodejs) and npm -v (node package manager), if you see
-or somthing similar to below 👍.  No version # install node from here: [Install NodeJS for Windows](https://nodejs.org/en/) 
 
-![image](https://user-images.githubusercontent.com/54637063/131031229-8930a22e-e303-4225-ab0c-3352cef3fe32.png)
-- psuedocode
-- resources 
-- use vsCode
-- download node.js (npm)
-- deploy a hello js app
-- deploy? on heroku or something. 
+## Setup: Nodejs and npm
+- Check to see if NodeJs and NPM are installed.  From terminal type node -v (nodejs) and npm -v (node package manager), if you see
+somthing similar to below 👍.  No version # install node from here: [Install NodeJS for Windows](https://nodejs.org/en/). 
+   
+   * accept installation defaults
+   * Recheck with node -v and npm -v
+
+![image](https://user-images.githubusercontent.com/54637063/131032697-8c234ca5-465a-4f9e-b0e2-28f1f6f51c15.png)
+
+## Setup MS Visual Code
+
 
 
 ## Test/Acceptance Criteria/Rubric (how do you know when you are done) 
