@@ -1,6 +1,6 @@
 Dev Lab ALPHA/486 Story Card 
 
-🚀  User Story (Story Points) 🚀 
+🚀 ## User Story (Story Points) 🚀 
 
 **As a** qualifying developer (note: one time usage only)  
 
