@@ -1,4 +1,4 @@
-Dev Lab ALPHA/486 Story Card 
+CIS-486 Dev Lab ALPHA Story Card 
 
  # User Story (Story Points) 🚀 
 
