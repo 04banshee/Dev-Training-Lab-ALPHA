@@ -9,7 +9,8 @@ CIS-486 Dev Lab ALPHA Story Card
 **So That** an end user is able to use a user friendly dynamic web application. 👶
 
 ## Comments/Steps to implement 🥇
-- Check to see if NodeJs is installed.  From terminal type node -v, if you see ![image](https://user-images.githubusercontent.com/54637063/131031229-8930a22e-e303-4225-ab0c-3352cef3fe32.png)
+- Check to see if NodeJs is installed.  From terminal type node -v, if you see
+![image](https://user-images.githubusercontent.com/54637063/131031229-8930a22e-e303-4225-ab0c-3352cef3fe32.png)
 or similar 👍.  No version # install from here: [Install NodeJS for Windows](https://nodejs.org/en/) 
 - psuedocode
 - resources 
