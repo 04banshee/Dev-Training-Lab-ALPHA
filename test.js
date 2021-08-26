@@ -1,5 +1,5 @@
 
-console.log('hello node')
+console.log('hello node.  How are we today?')
 const express = require('express')
 const app = express()
 const port = 3000
