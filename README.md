@@ -6,7 +6,7 @@ CIS-486 Dev Lab ALPHA Story Card
 
 **I want** deploy a demo node.js app
 
-**So That** an end user is able to use a user friendly dynamic web application. 👶
+**So That** an end user is able to use a user friendly dynamic web application. 🖱️
 
 ## Comments/Steps to implement 🥇
 
