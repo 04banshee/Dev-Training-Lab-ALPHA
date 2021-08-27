@@ -11,38 +11,40 @@ CIS-486 Dev Lab ALPHA Story Card
 ## Comments/Steps to implement 🥇
 
 ### Setup: Nodejs and npm
-- Check to see if NodeJs and npm are installed.  Open new terminal Terminal >> New Terminal, or ctl+shift+~(tilda symbol, next to 1)
-- From terminal type node -v (nodejs) and npm -v (node package manager),  . if you see
-somthing similar to below 👍.  No version # install node from here: [Install NodeJS for Windows](https://nodejs.org/en/). 
+1. Check to see if NodeJs and npm are installed. Open new terminal in vsCode Terminal >> New Terminal, or ctl+shift+~(tilda symbol, next to 1) 
+1. From terminal CLI type node -v (nodejs) then npm -v (node package manager),  if you see somthing similar to below 👍.  
+No version # listed = node not installed  Install node from here: [Install NodeJS for Windows](https://nodejs.org/en/). 
    
    * accept installation defaults.
+   * Will have to close out of vsCode and re-open
    * Recheck with node -v and npm -v 👍
 
 ![image](https://user-images.githubusercontent.com/54637063/131032697-8c234ca5-465a-4f9e-b0e2-28f1f6f51c15.png)
 
-### Setup Project MS Visual Code
-* Create project folder on desktop, use appropriate project name.
-* Open project folder in vsCode, or drag project folder on to vsCode 🩳cut.
-* ctl+shift+p > type "Select Defualt Profile" to set preferred terminal 💻.
+### Create Project in Visual Code
+1. Create project folder on desktop, use appropriate project name.
+1. Open project folder in vsCode.  File >> Open folder, or drag project folder on desktop to vsCode 🩳cut.
+1. Open command pallet View >> command pallet or ctl+shift+p > type "Select Defualt Profile" to set preferred terminal 💻.
+
+    ![image](https://user-images.githubusercontent.com/54637063/131168775-f694dfb8-f4f6-4ed9-b24e-a9b880d10cbe.png)
+
 
 
 ### Code the app
-* Create file for project.  File >> New file from menu, or 
-![image](https://user-images.githubusercontent.com/54637063/131036587-01710413-3ecd-4e21-9050-663b48f7efca.png) icon.
-* Verify the current terminal directory, type "pwd". If not in correct directory cd to correct directory.
-* Initialize project.  At terminal type "npm init".  
-** Accept defualts, creates package.json configuration file.
-* Copy 📋 demo code from: [Express code](https://www.npmjs.com/package/expres) to file.  Save file.
+1. Create file for project.  File >> New file from menu, or click ![image](https://user-images.githubusercontent.com/54637063/131170912-77ee4e3e-08be-4498-ac81-ecf943d7efb3.png) icon. Use appropriate filename.js.
+1. Verify the current terminal directory. Open new terminal, CTL+SHIFT+~   At CLI type "pwd" to verify current working directory. If not in correct project directory cd to correct  directory.
+1. Initialize project.  At terminal type "npm init".  ** Accept defualts, creates package.json configuration file.
+1. Copy 📋 demo code from: [Express code](https://www.npmjs.com/package/expres) to file.  Save file.
 
 
 ## Test app
-* Open terminal Terminal >> New Terminal, or ctl+shift+~(tilda symbol, next to 1). 
-* Start nodejs server.  Type "node (filename).js  If node server started will see somthing similar to this: Your msg may differ.
+1. Open terminal Terminal >> New Terminal, or ctl+shift+~(tilda symbol, next to 1). 
+1. Start nodejs server.  Type "node (filename).js  If node server started will see somthing similar to this: Your msg may differ.
 
 ![image](https://user-images.githubusercontent.com/54637063/131038299-6f490fae-cc29-452a-80b8-89867e9d6482.png)
 
-* Open web browser of choice.  In browser address bar type: "localhost:3000  
-* If working correctly should see something similar to below.  Your display may differ.
+1. Open web browser of choice.  In browser address bar type: "localhost:3000  
+1. If working correctly should see something similar to below.  Your display may differ.
 
 ![image](https://user-images.githubusercontent.com/54637063/131039198-97be2372-85f5-44f6-a2ec-6a0e8f217814.png)
 
