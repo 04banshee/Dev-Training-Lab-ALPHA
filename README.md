@@ -41,12 +41,12 @@ No version # listed = node not installed  Install node from here: [Install NodeJ
 1. Open terminal Terminal >> New Terminal, or ctl+shift+~(tilda symbol, next to 1). 
 1. Start nodejs server.  Type "node (filename).js  If node server started will see somthing similar to this: Your msg may differ.
 
-![image](https://user-images.githubusercontent.com/54637063/131038299-6f490fae-cc29-452a-80b8-89867e9d6482.png)
+    ![image](https://user-images.githubusercontent.com/54637063/131256363-3ce7982b-f7cb-4be9-894d-1cea0a480a1d.png)
 
 1. Open web browser of choice.  In browser address bar type: "localhost:3000  
 1. If working correctly should see something similar to below.  Your display may differ.
 
-![image](https://user-images.githubusercontent.com/54637063/131039198-97be2372-85f5-44f6-a2ec-6a0e8f217814.png)
+    ![image](https://user-images.githubusercontent.com/54637063/131039198-97be2372-85f5-44f6-a2ec-6a0e8f217814.png)
 
 
 
