@@ -1,17 +1,17 @@
-const fs = require('fs');
-const express = require('express');
-const app = express();
-const http = require('http');
 
+var fs = require('fs');
+var express = require('express');
+var app = express();
+var http = require('http');
 
-const server = http.createServer(app);
-server.listen(3080, function() {
-  console.log((new Date()) + ' Server is listening on port 3080');
+var server = http.createServer(app);
+server.listen(3000, function() {
+  console.log((new Date()) + ' Server is listening on port 300');
 });
 
 app.use(express.static(__dirname));
 app.get('/', function(req, res) {
-console.log('app.get slash');
-const file = fs.readFileSync('index1.html', {encoding: 'utf8'});
-res.send(file);
+ console.log('app.get slash');
+ var file = fs.readFileSync('index1.html', {encoding: 'utf8'});
+ res.send(file);
 });
