@@ -6,7 +6,7 @@ var http = require('http');
 
 var server = http.createServer(app);
 server.listen(3000, function() {
-  console.log((new Date()) + ' Server is listening on port 300');
+  console.log((new Date()) + ' Server is listening on port 3000');
 });
 
 app.use(express.static(__dirname));
