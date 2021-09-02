@@ -15,3 +15,5 @@ app.get('/', function(req, res) {
  const file = fs.readFileSync('index1.html', {encoding: 'utf8'});
  res.send(file);
 });
+
+app.listen(process.env.PORT || 3000);
